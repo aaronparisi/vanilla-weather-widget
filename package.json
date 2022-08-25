@@ -1,0 +1,9 @@
+{
+  "name": "vanilla-weather",
+  "main": "build/index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "serve": "yarn node server.js",
+    "watch": "nodemon -e js,json,css,html,svg server.js"
+  }
+}
